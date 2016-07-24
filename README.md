@@ -1,2 +1,2 @@
 # demo
-A demo repo
+A demo repo with a demo readme
